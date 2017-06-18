@@ -42,5 +42,7 @@ Florence: =1 if 'The Art History of Florence" was bought, = 0 if not
 
 Related purchase: Number of related books purchased 
 
+
 Algorithm used: Logistic Regression
+
 Accuracy ~ 92%
